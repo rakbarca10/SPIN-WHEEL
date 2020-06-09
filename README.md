@@ -26,7 +26,7 @@ Douglas McKechie https://github.com/zarocknz
 
 
 VIEW IT ON THIS SITE
-Tacos-SpinTheWheel.epizy.com
+http://Tacos-SpinTheWheel.epizy.com/
 
 
 
