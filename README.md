@@ -22,7 +22,7 @@ ADJUST SPEED ACCORDING TO YOUR PREFERENCE
 ##INITIAL  DEVELOPER
 Douglas McKechie https://github.com/zarocknz
 
-##FURTHER DEVELOPES BY RAKSHITH ON 07-06-2020 https://github.com/rakbarca10
+##FURTHER UPDATES BY RAKSHITH ON 07-06-2020 https://github.com/rakbarca10
 
 
 VIEW IT ON THIS SITE
