@@ -23,6 +23,8 @@ ADJUST SPEED ACCORDING TO YOUR PREFERENCE
 Douglas McKechie https://github.com/zarocknz
 
 ##FURTHER DEVELOPES BY RAKSHITH ON 07-06-2020 https://github.com/rakbarca10
+
+
 VIEW IT ON THIS SITE
 Tacos-SpinTheWheel.epizy.com
 
